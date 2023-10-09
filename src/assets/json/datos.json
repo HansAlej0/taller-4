@@ -1,7 +1,26 @@
 [
     {
-        "title": "Ejemplo 1",
-        "text": "Descripcion",
-        "link": "https://www.udemy.com/"
+        "id": 1,
+        "title": "París, Francia​",
+        "image": "paris.jpg",
+        "link": "https://es.wikipedia.org/wiki/Par%C3%ADs"
+    },
+    {
+        "id": 2,
+        "title": "Kyoto, Japón​",
+        "image": "kyoto.jpg",
+        "link": "https://es.wikipedia.org/wiki/Kioto"
+    },
+    {
+        "id": 3,
+        "title": "Machu Picchu, Perú​",
+        "image": "peru.jpg",
+        "link": "https://es.wikipedia.org/wiki/Per%C3%BA"
+    },
+    {
+        "id": 4,
+        "title": "Nueva York, EE. UU.​",
+        "image": "eeuu.jpg",
+        "link": "https://es.wikipedia.org/wiki/Nueva_York"
     }
 ]

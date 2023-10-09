@@ -1,16 +1,14 @@
 <template>
-  <card-container />
+  <photo-gallery />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import CardContainer from "./components/CardContainer.vue";
+import PhotoGallery from "./components/PhotoGallery.vue";
 
 export default defineComponent({
   components: {
-    CardContainer,
+    PhotoGallery,
   },
 });
 </script>
-
-<style lang="scss"></style>
